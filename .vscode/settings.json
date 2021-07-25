@@ -1,0 +1,10 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "sqlite",
+      "database": "${workspaceFolder:learn_flask_sqlalchemy}/backend/blog.db"
+    }
+  ]
+}
